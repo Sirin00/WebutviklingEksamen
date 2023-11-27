@@ -82,15 +82,15 @@ nav > a.btn{
     border: 2px solid var(--yellow);
     padding: 10px 20px;
     transition: 250ms;
+    background-color: var(--yellow);
 }
 nav > a.btn:hover::before{
     width: 0%;
 }
-nav > a.active::before{
-    width: 100%;
-}
+
 nav > a.btn:hover{
-    background: var(--yellow);
+    background: var(--Black);
+    color: var(--White);
 }
 /* Main Section */
 /* main{
