@@ -43,7 +43,7 @@ a{
 }
 /* header */
 header{
-    max-width: 1400px;
+    max-width: 1600px;
     padding: 10px 40px;
     margin: 0 auto;
     display: flex;
@@ -55,6 +55,7 @@ nav{
     display: flex;
     gap: 30px;
     align-items: center;
+    
 }
 nav > a{
     color: var(--Darkgray);
@@ -226,7 +227,6 @@ nav > a.btn:hover{
 }
 form.newsletter{
    padding: 40px 30px;
-   /* max-width: 1400px; */
    margin: 0 auto;
    display: flex;
    justify-content: center;
@@ -428,9 +428,17 @@ footer i:hover{
         flex-direction: column;
         gap: 30px;
     }
+/* her så spurte jeg chatgpt "how do i make nav to fall under each instead next to eachother in mobil form?"
+og fikk dette som resultat */
+    nav{ 
+        display: flex;
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items horizontally */
+    }
     nav > a{
         font-size: 14px;
     }
+
     nav > a.btn{
         padding: 5px 10px;
 
@@ -440,6 +448,19 @@ footer i:hover{
     }
     .text-container h2{
         font-size: 18px;
+    }
+
+    .figures-flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .figures-flex2{
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    
     }
     .flex-container{
         flex-direction: column;
