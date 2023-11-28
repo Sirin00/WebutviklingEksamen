@@ -143,6 +143,7 @@ nav > a.btn:hover{
 }
 .banner-text > a.btn{
     border: 2px solid var(--yellow);
+    background-color: var(--yellow);
     padding: 10px 20px;
     transition: 250ms;
     color: var(--Black);
@@ -151,7 +152,8 @@ nav > a.btn:hover{
     width: 0%;
 }
 .banner-text > a.btn:hover{
-    background: var(--yellow);
+    background: var(--Black);
+    color: var(--White);
 }
 .banner-text > h1{
     font-size: 36px;
@@ -363,6 +365,10 @@ main > iframe{
     background: none;
     border: 1px solid var(--Darkgray);
     cursor: pointer;
+}
+.buttons button.btn:hover{
+    background-color: var(--Black);
+    color: var(--White);
 }
 .figures-flex{
     display: flex;
