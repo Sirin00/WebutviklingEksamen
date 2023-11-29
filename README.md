@@ -12,7 +12,7 @@ Andre utfordringer var og ikke ha noen errors på validator siden. Prøvde å fi
 
 Etter D-kraven syntes jeg at oppgaveteskten ble litt forrvirende og vanskelig og forstå oppsette. Følte at jeg måtte være i hodet til noen andre for å kunne skjønne fra deres synsvinkelen. Jeg forstår at html skal være struktuert men det virker som hendene ble litt bunnet og lite rom for andre måter å løse noen av punktene på. Prøvde og følge punktene så mye som mulig men for noen av puntene som jeg ikke helt fortår brukte jeg kunnskapen jeg har fra andre programmeringsfag og andre hjelpemidler/eksempler og gjorde det jeg kunne med oppgaven slik at den ser så lik ut som demo videon som var tilgjenglig. Den ser ikke prik lik vidoe eller skissene men kan kanskje være søsken nettside. 
 
-Endringene var i stedet for placeholder bilder på sidene så er det bare videon som looper.
+Endringene var i stedet for placeholder bilder øverst på sidene så er det bare videon som looper.
 
 Kilder:
 
