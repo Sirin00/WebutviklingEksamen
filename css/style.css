@@ -342,7 +342,7 @@ main > iframe{
     margin: 0;
 }
 
-/* Portfolio page/side */
+/* Portfolio */
 
 .tab-wrap{
     max-width: 1400px;
@@ -404,7 +404,7 @@ figure img:hover{
 figcaption{
     font-weight: 600;
 }
-/* Footer section */
+/* Footer*/
 footer{
     background: var(--Darkgray);
     padding: 40px 30px;
@@ -429,7 +429,7 @@ footer i:hover{
         gap: 30px;
     }
 /* her så spurte jeg chatgpt "how do i make nav to fall under each instead next to eachother in mobil form?"
-og fikk dette som resultat */
+og fikk dette som resultat https://chat.openai.com/ */
     nav{ 
         display: flex;
         flex-direction: column; /* Stack items vertically */
