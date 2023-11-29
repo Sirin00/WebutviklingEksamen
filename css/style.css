@@ -20,7 +20,7 @@ html{
 body{
     transition: 250ms;
     background: var(--White);
-    font-family: Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 a{
     text-decoration: none;
@@ -198,7 +198,7 @@ nav > a.btn:hover{
     padding: 10px 20px;
     transition: 250ms;
     color: var(--Black);
-    width: 220px;
+    width: 190px;
 }
 .flex-text > a.black-btn:hover{
     background: var(--Black);
