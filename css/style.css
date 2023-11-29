@@ -11,6 +11,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Costom scroller */
 html{
     scroll-behavior: smooth;
 } 
@@ -29,6 +31,8 @@ a{
 ::-webkit-scrollbar-thumb{
     background: var(--yellow);
 }
+
+/* To top arrow button */
 .arrow{
     background: var(--Darkgray);
     color: var(--White);
