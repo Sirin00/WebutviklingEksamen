@@ -34,6 +34,7 @@ https://fonts.google.com/specimen/Roboto
 Developer Mozilla:
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div 
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address 
 
 Youtube (brukte som hjelpemidler for å forstå struktur for html og css for portfolioer. Og ville bare holde meg til html og css):
