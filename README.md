@@ -14,7 +14,7 @@ Etter D-kraven syntes jeg at oppgaveteskten ble litt forrvirende og vanskelig og
 
 Endringene var i stedet for placeholder bilder øverst på sidene så er det bare videon som looper.
 
-Kilder:
+Kilder: 
 
 w3school:
 https://www.w3schools.com/css/css3_variables.asp 

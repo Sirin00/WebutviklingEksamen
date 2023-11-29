@@ -12,7 +12,7 @@
     box-sizing: border-box;
 }
 
-/* Costom scroller */
+/* Costom scroller */ 
 html{
     scroll-behavior: smooth;
 } 
