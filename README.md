@@ -1,7 +1,7 @@
 # Eksamen
 webutvikling eksamen 2023
 
-Legger dokumentasjonen er også hvis det blir noe feil med PDF filen
+Legger dokumentasjonen her også hvis det blir noe feil med PDF filen
 
 Vanskelighetsgrad/min ambisjonsnivå:
 Jeg har hovedsaklig bestemt meg for C-kraven men har også tatt noen punkter for B-kraven i tillegg. 
